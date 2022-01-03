@@ -1,4 +1,4 @@
-// yeni satilan hayvan urunler ve yeni hayvan urunler tip eklemek
+// yeni satilan hayvan urunler veya yeni hayvan urunler tip eklemek
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
