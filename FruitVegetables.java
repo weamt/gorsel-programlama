@@ -1,4 +1,4 @@
-
+// dataya satılan meyve ve sebzeleri eklemek, veya yeni bir meyve ve sebze türü eklemek
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
