@@ -1,4 +1,4 @@
-
+// yeni hayavan eklemek ve yeni hayavan tipi eklemek kodu 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
